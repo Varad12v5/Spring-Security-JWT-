@@ -55,7 +55,7 @@ src/main/java/com/example/Spring/Security/JWT/
 
 1. Clone the repository:
 ```bash
-git clone [https://github.com/Varad12v5/Spring-Security-JWT-.git]
+git clone https://github.com/Varad12v5/Spring-Security-JWT-.git
 ```
 
 2. Configure MySQL database in `application.properties`:
